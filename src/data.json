@@ -1,0 +1,73 @@
+{
+    "Mobile":[
+        {
+            "features":{
+                "photo": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ede455207e58a0007201824%2F0x0.jpg",
+                "Brand": "OnePlus-Nord",
+                "price": "$352",
+                "title": ["Front Camera","Battery","Processor","Ram","Rear Camera","Display"],
+                "KEY_SPECS":[
+                    
+                    "32 MP + 8 MP",
+                    "4115 mAh",
+                    "Qualcomm Snapdragon 765G",
+                    "6 GB",
+                    "48 MP + 8 MP + 5 MP + 2 MP",
+                    "6.44 inches"
+            ]
+            }
+        },
+        {
+            "features":{
+                "photo": "https://i.insider.com/5dd80deffd9db20a176152d8?width=1100&format=jpeg&auto=webp",
+                "Brand": "Apple iPhone 12",
+                "price": "$1014",
+                "title": ["Front Camera","Battery","Processor","Ram","Rear Camera","Display"],
+                "KEY_SPECS":[
+                    
+                        "32 MP + 8 MP",
+                        "4115 mAh",
+                        "Qualcomm Snapdragon 765G",
+                        "6 GB",
+                        "48 MP + 8 MP + 5 MP + 2 MP",
+                        "6.44 inches"
+                ]
+            }
+        },
+        {
+            "features":{
+                "photo": "https://www.electrorates.com/blogimg/Samsung_Galaxy_M31_1.png",
+                "Brand": "Samsung M31",
+                "price": "$264",
+                "title": ["Front Camera","Battery","Processor","Ram","Rear Camera","Display"],
+                "KEY_SPECS":[
+                    
+                    "32 MP",
+                    "6000 mAh",
+                    "2.3GHz octa-core (4x2.3GHz + 4x1.7GHz)",
+                    "6 GB",
+                    "64 MP + 12 MP + 5 MP + 5 MP",
+                    "6.5 inches"
+            ]
+            }
+        },
+        {
+            "features":{
+                "photo": "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-reno4-pro-5g-2.jpg",
+                "Brand": "Oppo Reno4 pro",
+                "price": "$600",
+                "title": ["Front Camera","Battery","Processor","Ram","Rear Camera","Display"],
+                "KEY_SPECS":[
+                    
+                    "32 MP",
+                    "4000 mAh",
+                    "Qualcomm Snapdragon 720G | 8 GB",
+                    "8 GB",
+                    "48 MP + 8 MP + 2 MP + 2 MP",
+                    "6.5 inches"
+            ]
+                
+            }
+        }
+    ]
+}
